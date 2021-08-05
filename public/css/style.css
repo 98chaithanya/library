@@ -1,0 +1,12 @@
+.navbar a,ul,li{
+    color:white;
+}
+.nav-link{
+    color: white;
+}
+a{
+    color: gray;
+}
+.button{
+    float: right;
+}
